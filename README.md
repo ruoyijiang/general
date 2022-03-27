@@ -2,7 +2,7 @@
 
 Please visit https://ruoyijiang.shinyapps.io/prediction to use a running version of the web application. 
 
-This model reports the likelihood that a patient in the ICU will require more than 24 hours of vasopressor support or receive more than one vasopressor at the same time. That is, this model will report the likelihood that a patient will fulfill the indication for central venous catheter placement utilized by most hospital protocols. Model statistics are provided in the reference below. 
+This model reports the likelihood that a patient in the ICU will require more than 24 hours of vasopressor support or receive more than one vasopressor at the same time. That is, this model will report the likelihood that a patient will fulfill the indication for central venous catheter placement for vasopressor administration utilized by most hospital protocols. Model statistics are provided in the reference below. 
 
 # Reference
 
